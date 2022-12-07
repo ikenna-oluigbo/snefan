@@ -1,3 +1,6 @@
+'''Code Created by Ikenna Oluigbo. 
+Email: ikenna.oluigbo@gmail.com'''
+
 import argparse
 from gensim.models import Word2Vec 
 from attribwalk import *
